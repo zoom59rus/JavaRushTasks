@@ -1495,3 +1495,20 @@
 2019-05-21 20:50:29 INFO  ApacheHttpClient.testConnection(208) - result = true
 2019-05-21 20:50:32 INFO  ApacheHttpClient.testConnection(193) - responseCode = 200
 2019-05-21 20:50:32 INFO  ApacheHttpClient.testConnection(208) - result = true
+2019-05-21 20:51:19 INFO  ApacheHttpClient.sendEvent(518) - responseCode = 200
+2019-05-21 20:52:19 INFO  ApacheHttpClient.sendEvent(518) - responseCode = 200
+2019-05-21 20:53:19 INFO  ApacheHttpClient.sendEvent(518) - responseCode = 200
+2019-05-21 20:53:38 INFO  ApacheHttpClient.testConnection(193) - responseCode = 200
+2019-05-21 20:53:38 INFO  ApacheHttpClient.testConnection(208) - result = true
+2019-05-21 20:53:41 INFO  ApacheHttpClient.testConnection(193) - responseCode = 200
+2019-05-21 20:53:41 INFO  ApacheHttpClient.testConnection(208) - result = true
+2019-05-21 20:53:42 INFO  ApacheHttpClient.getWebResourceAsStream(485) - responseCode = 200
+2019-05-21 20:54:19 INFO  ApacheHttpClient.sendEvent(518) - responseCode = 200
+2019-05-21 20:54:19 INFO  ApacheHttpClient.sendEvent(518) - responseCode = 200
+2019-05-21 20:55:03 INFO  ApacheHttpClient.getWebResourceAsStream(485) - responseCode = 200
+2019-05-21 20:55:03 INFO  ApacheHttpClient.getTask(471) - responseCode = 200
+2019-05-21 20:55:03 INFO  ApacheHttpClient.completed(28) - responseCode = 400
+2019-05-21 20:55:04 INFO  ApacheHttpClient.getWebResourceAsStream(485) - responseCode = 200
+2019-05-21 20:55:04 WARN  TaskCompleted.run(70) - You already completed this task: "Считать с консоли 2 имени файла."
+2019-05-21 20:55:19 INFO  ApacheHttpClient.sendEvent(518) - responseCode = 200
+2019-05-21 20:55:19 INFO  ApacheHttpClient.sendEvent(518) - responseCode = 200
