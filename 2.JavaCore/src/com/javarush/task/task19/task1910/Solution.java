@@ -25,7 +25,7 @@ public class Solution {
             writer = new BufferedWriter(fileWriter);
             while (reader.ready()){
                 String tempString = reader.readLine();
-                tempString = tempString.replaceAll("\\W\\n", "");
+                tempString = tempString.replaceAll("\\p{Punct}|\\n", "");
                 writer.write(tempString);
             }
             fileReader.close();
