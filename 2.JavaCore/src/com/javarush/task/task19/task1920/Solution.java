@@ -24,7 +24,7 @@ public class Solution {
             }
             bufferedReader.close();
         }catch (IOException e){
-            e.printStackTrace();
+            e.printStackTrace(); 
         }
         Stream<Map.Entry<String, Double>> sorted = lists.entrySet().stream().sorted(Map.Entry.comparingByValue());
 
