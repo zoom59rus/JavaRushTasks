@@ -3651,3 +3651,29 @@
 2019-06-21 14:51:20 INFO  ApacheHttpClient.sendEvent(518) - responseCode = 200
 2019-06-21 14:52:20 INFO  ApacheHttpClient.sendEvent(518) - responseCode = 200
 2019-06-21 14:52:20 INFO  ApacheHttpClient.sendEvent(518) - responseCode = 200
+2019-06-21 14:53:20 INFO  ApacheHttpClient.sendEvent(518) - responseCode = 200
+2019-06-21 14:53:20 INFO  ApacheHttpClient.sendEvent(518) - responseCode = 200
+2019-06-21 14:54:20 INFO  ApacheHttpClient.sendEvent(518) - responseCode = 200
+2019-06-21 14:54:20 INFO  ApacheHttpClient.sendEvent(518) - responseCode = 200
+2019-06-21 14:55:20 INFO  ApacheHttpClient.sendEvent(518) - responseCode = 200
+2019-06-21 14:55:20 INFO  ApacheHttpClient.sendEvent(518) - responseCode = 200
+2019-06-21 14:56:20 INFO  ApacheHttpClient.sendEvent(518) - responseCode = 200
+2019-06-21 14:56:20 INFO  ApacheHttpClient.sendEvent(518) - responseCode = 200
+2019-06-21 14:56:57 INFO  PluginTasksProjectComponent.projectClosing(188) - ---------- Project closed ----------
+
+2019-06-21 14:56:57 INFO  PluginTasksProjectComponent.projectClosing(188) - ---------- Project closed ----------
+
+2019-06-21 14:56:57 INFO  ApacheHttpClient.getTask(471) - responseCode = 200
+2019-06-21 14:56:57 INFO  ApacheHttpClient.getTask(471) - responseCode = 200
+2019-06-24 10:27:58 INFO  PluginTasksProjectComponent.projectOpened(77) - ---------- Project opened ----------
+2019-06-24 10:27:58 INFO  PluginTasksProjectComponent.projectOpened(78) - ---------- Version 3.31 ----------
+
+2019-06-24 10:27:59 INFO  ApacheHttpClient.createAsyncHttpClient(135) - 1 proxies selected. Type: DIRECT
+2019-06-24 10:27:59 INFO  ApacheHttpClient.<init>(93) - ApacheHttpClient was successfully instantiated.
+2019-06-24 10:28:00 INFO  ApacheHttpClient.testConnection(193) - responseCode = 200
+2019-06-24 10:28:00 INFO  ApacheHttpClient.testConnection(208) - result = true
+2019-06-24 10:28:00 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(585) - Waiting for server response.
+2019-06-24 10:28:02 INFO  ApacheHttpClient.refreshUserInfo(293) - responseCode = 200
+2019-06-24 10:28:02 INFO  ApacheHttpClient.refreshUserInfo(299) - User information received.
+2019-06-24 10:28:02 INFO  ApacheHttpClient.startGA(35) - GAService started.
+2019-06-24 10:28:02 INFO  AbstractRestApiClient.startService(71) - EventsService started.
