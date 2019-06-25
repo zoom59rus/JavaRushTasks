@@ -19,7 +19,6 @@ public class Solution {
             bufferedWriter = new BufferedWriter(new FileWriter(args[1]));
             while(bufferedReader.ready()){
                 String[] tempLine = bufferedReader.readLine().split(" ");
-                //Matcher matcher = Pattern.compile("\\d+").matcher(tempLine);
                 for (int i = 0; i < tempLine.length; i++) {
                     Matcher matcher = Pattern.compile("\\d").matcher(tempLine[i]);
                     if(matcher.find())
