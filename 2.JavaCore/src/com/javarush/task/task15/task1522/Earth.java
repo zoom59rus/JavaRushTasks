@@ -7,7 +7,7 @@ public class Earth implements Planet {
     private Earth() {
     }
 
-    public static instance getInstance() {
+    public static Earth getInstance() {
         if (instance == null) {
             instance = new Earth();
         }

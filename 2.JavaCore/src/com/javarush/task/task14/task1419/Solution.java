@@ -26,9 +26,5 @@ public class Solution {
             exceptions.add(e);
         }
 
-        try {
-
-        }
-
     }
 }

@@ -1,7 +1,5 @@
 package com.javarush.task.task19.task1916;
 
-import sun.net.ftp.FtpDirEntry;
-
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;

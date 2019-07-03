@@ -1,10 +1,5 @@
 package com.javarush.task.task16.task1630;
 
-import java.io.BufferedReader;
-import java.io.FileReader;
-import java.io.IOException;
-import java.io.InputStreamReader;
-
 public class Solution {
     public static String firstFileName;
     public static String secondFileName;

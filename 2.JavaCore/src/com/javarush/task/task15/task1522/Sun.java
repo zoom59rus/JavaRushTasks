@@ -6,7 +6,7 @@ public class Sun implements Planet {
     private Sun() {
     }
 
-    public static instance getInstance() {
+    public static Sun getInstance() {
         if (instance == null)
             instance = new Sun();
         return instance;

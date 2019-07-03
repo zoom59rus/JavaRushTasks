@@ -23,6 +23,4 @@ public class Solution {
     public void addPerson(String name, String sex, Date dateOfBirth) {
 
     }
-
-    public void
 }
