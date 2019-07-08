@@ -6,10 +6,12 @@ import java.io.*;
 Переопределение сериализации в потоке
 */
 public class Solution implements Serializable, AutoCloseable {
-    private FileOutputStream stream;
+    transient private FileOutputStream stream;
+    String fileName;
 
     public Solution(String fileName) throws FileNotFoundException {
         this.stream = new FileOutputStream(fileName);
+        this.fileName = fileName;
     }
 
     public void writeObject(String string) throws IOException {
@@ -20,12 +22,11 @@ public class Solution implements Serializable, AutoCloseable {
 
     private void writeObject(ObjectOutputStream out) throws IOException {
         out.defaultWriteObject();
-        out.close();
     }
 
     private void readObject(ObjectInputStream in) throws IOException, ClassNotFoundException {
         in.defaultReadObject();
-        in.close();
+        this.stream = new FileOutputStream(fileName, true);
     }
 
     @Override
@@ -34,7 +35,13 @@ public class Solution implements Serializable, AutoCloseable {
         stream.close();
     }
 
-    public static void main(String[] args) {
+    public static void main(String[] args) throws IOException{
+        Solution solution = new Solution("./123.txt");
+        solution.writeObject("write");
+        ObjectOutputStream out = new ObjectOutputStream(solution.stream);
+        solution.writeObject(out);
+        Solution newSolution = new Solution(solution.stream.toString());
+
 
     }
 }
