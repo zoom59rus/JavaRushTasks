@@ -21390,3 +21390,1138 @@ Caused by: java.io.IOException: Operation timed out
 2020-11-06 10:33:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
 2020-11-06 10:34:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
 2020-11-06 10:35:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 10:36:47 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-11-06 10:36:47 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2020-11-06 10:36:49 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2020-11-06 10:36:50 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-11-06 10:37:32 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-11-06 10:37:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 10:37:57 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-11-06 10:37:57 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2020-11-06 10:38:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 10:39:08 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-11-06 10:39:08 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-11-06 10:39:08 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-11-06 10:39:09 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2020-11-06 10:39:09 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-11-06 10:39:13 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-11-06 10:39:13 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2020-11-06 10:39:14 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2020-11-06 10:39:15 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-11-06 10:39:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 10:40:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 10:40:42 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-11-06 10:40:43 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-11-06 10:40:43 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-11-06 10:40:44 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2020-11-06 10:40:44 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-11-06 10:40:47 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-11-06 10:40:47 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2020-11-06 10:40:48 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2020-11-06 10:40:48 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-11-06 10:40:48 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2020-11-06 10:40:49 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-11-06 10:41:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 10:42:30 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-11-06 10:42:30 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-11-06 10:42:31 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-11-06 10:42:31 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2020-11-06 10:42:31 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-11-06 10:42:34 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-11-06 10:42:34 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2020-11-06 10:42:35 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2020-11-06 10:42:36 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-11-06 10:42:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 10:43:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 10:43:59 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-11-06 10:43:59 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-11-06 10:43:59 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-11-06 10:44:00 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2020-11-06 10:44:00 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-11-06 10:44:02 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-11-06 10:44:02 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2020-11-06 10:44:03 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2020-11-06 10:44:04 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-11-06 10:44:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 10:45:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 10:45:48 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-11-06 10:45:48 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-11-06 10:45:48 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-11-06 10:45:49 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2020-11-06 10:45:49 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-11-06 10:45:51 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-11-06 10:45:51 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2020-11-06 10:45:52 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2020-11-06 10:45:53 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-11-06 10:46:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 10:47:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 10:48:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 10:49:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 10:50:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 10:51:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 10:52:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 10:53:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 10:54:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 10:55:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 10:56:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 10:57:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 10:58:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 10:59:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 11:00:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 11:01:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 11:02:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 11:03:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 11:04:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 11:05:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 11:06:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 11:07:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 11:08:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 11:09:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 11:10:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 11:11:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 11:12:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 11:13:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 11:14:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 11:15:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 11:16:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 11:17:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 11:18:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 11:19:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 11:20:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 11:21:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 11:22:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 11:23:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 11:24:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 11:25:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 11:26:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 11:27:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 11:28:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 11:29:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 11:30:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 11:31:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 11:31:53 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-11-06 11:31:54 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-11-06 11:31:54 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-11-06 11:31:55 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2020-11-06 11:31:55 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-11-06 11:31:57 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-11-06 11:31:57 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2020-11-06 11:31:58 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2020-11-06 11:31:58 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-11-06 11:32:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 11:33:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 11:34:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 11:35:34 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-11-06 11:35:34 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-11-06 11:35:35 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-11-06 11:35:36 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2020-11-06 11:35:36 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-11-06 11:35:38 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-11-06 11:35:38 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2020-11-06 11:35:39 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2020-11-06 11:35:39 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-11-06 11:35:40 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2020-11-06 11:35:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 11:35:40 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-11-06 11:36:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 11:37:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 11:38:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 11:39:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 11:40:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 11:41:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 11:42:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 11:43:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 11:44:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 11:45:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 11:46:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 11:47:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 11:48:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 11:49:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 11:50:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 11:51:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 11:52:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 11:53:15 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-11-06 11:53:15 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-11-06 11:53:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 11:54:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 11:55:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 11:56:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 11:57:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 11:58:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 11:59:31 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-11-06 11:59:32 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-11-06 11:59:32 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-11-06 11:59:33 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2020-11-06 11:59:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 12:00:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 12:00:59 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-11-06 12:00:59 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-11-06 12:00:59 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-11-06 12:01:00 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2020-11-06 12:01:00 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-11-06 12:01:07 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-11-06 12:01:07 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2020-11-06 12:01:09 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2020-11-06 12:01:09 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-11-06 12:01:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 12:02:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 12:03:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 12:04:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 12:05:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 12:06:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 12:07:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 12:08:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 12:09:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 12:10:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 12:11:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 12:12:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 12:13:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 12:14:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 12:15:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 12:16:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 12:17:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 12:18:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 12:19:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 12:20:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 12:21:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 12:22:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 12:23:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 12:24:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 12:25:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 12:26:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 12:27:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 12:28:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 12:29:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 12:30:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 12:31:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 12:32:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 12:33:18 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-11-06 12:33:20 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-11-06 12:33:20 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-11-06 12:33:20 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2020-11-06 12:33:21 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-11-06 12:33:24 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-11-06 12:33:24 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2020-11-06 12:33:27 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2020-11-06 12:33:33 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-11-06 12:33:34 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2020-11-06 12:33:40 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-11-06 12:33:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 12:34:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 12:35:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 12:36:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 12:37:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 12:38:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 12:39:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 12:40:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 12:41:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 12:42:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 12:43:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 12:44:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 12:45:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 12:46:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 12:47:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 12:48:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 12:49:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 12:50:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 12:51:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 12:52:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 12:53:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 12:54:07 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-11-06 12:54:08 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-11-06 12:54:08 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-11-06 12:54:38 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2020-11-06 12:54:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 12:55:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 12:56:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 12:56:44 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-11-06 12:56:44 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-11-06 12:56:44 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-11-06 12:57:14 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2020-11-06 12:57:22 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-11-06 12:57:22 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-11-06 12:57:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 12:58:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 12:59:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 13:00:50 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 13:01:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 13:02:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 13:03:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 13:05:00 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 13:05:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 13:06:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 13:07:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 13:08:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 13:09:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 13:10:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 13:11:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 13:12:50 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 13:13:50 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 13:14:50 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 13:15:48 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 13:17:10 ERROR ApacheHttpClient.processExceptionSendEvent(110) - (super) : Error while sending the event to the server.
+java.util.concurrent.ExecutionException: java.io.IOException: Connection reset by peer
+	at org.apache.http.concurrent.BasicFuture.getResult(BasicFuture.java:70)
+	at org.apache.http.concurrent.BasicFuture.get(BasicFuture.java:80)
+	at com.homework.plugin.client.ApacheHttpClient.getResponseCode(ApacheHttpClient.java:577)
+	at com.homework.plugin.client.ApacheHttpClient.sendEvent(ApacheHttpClient.java:535)
+	at com.homework.plugin.service.EventsService$1.run(EventsService.java:63)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: java.io.IOException: Connection reset by peer
+	at java.base/sun.nio.ch.FileDispatcherImpl.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:39)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:358)
+	at org.apache.http.nio.reactor.ssl.SSLIOSession.receiveEncryptedData(SSLIOSession.java:451)
+	at org.apache.http.nio.reactor.ssl.SSLIOSession.isAppInputReady(SSLIOSession.java:505)
+	at org.apache.http.impl.nio.reactor.AbstractIODispatch.inputReady(AbstractIODispatch.java:120)
+	at org.apache.http.impl.nio.reactor.BaseIOReactor.readable(BaseIOReactor.java:162)
+	at org.apache.http.impl.nio.reactor.AbstractIOReactor.processEvent(AbstractIOReactor.java:337)
+	at org.apache.http.impl.nio.reactor.AbstractIOReactor.processEvents(AbstractIOReactor.java:315)
+	at org.apache.http.impl.nio.reactor.AbstractIOReactor.execute(AbstractIOReactor.java:276)
+	at org.apache.http.impl.nio.reactor.BaseIOReactor.execute(BaseIOReactor.java:104)
+	at org.apache.http.impl.nio.reactor.AbstractMultiworkerIOReactor$Worker.run(AbstractMultiworkerIOReactor.java:588)
+	... 1 more
+2020-11-06 13:17:40 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 15:33:33 ERROR ApacheHttpClient.processExceptionSendEvent(110) - (super) : Error while sending the event to the server.
+java.util.concurrent.ExecutionException: java.io.IOException: Operation timed out
+	at org.apache.http.concurrent.BasicFuture.getResult(BasicFuture.java:70)
+	at org.apache.http.concurrent.BasicFuture.get(BasicFuture.java:80)
+	at com.homework.plugin.client.ApacheHttpClient.getResponseCode(ApacheHttpClient.java:577)
+	at com.homework.plugin.client.ApacheHttpClient.sendEvent(ApacheHttpClient.java:535)
+	at com.homework.plugin.service.EventsService$1.run(EventsService.java:63)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: java.io.IOException: Operation timed out
+	at java.base/sun.nio.ch.FileDispatcherImpl.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:39)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:358)
+	at org.apache.http.nio.reactor.ssl.SSLIOSession.receiveEncryptedData(SSLIOSession.java:451)
+	at org.apache.http.nio.reactor.ssl.SSLIOSession.isAppInputReady(SSLIOSession.java:505)
+	at org.apache.http.impl.nio.reactor.AbstractIODispatch.inputReady(AbstractIODispatch.java:120)
+	at org.apache.http.impl.nio.reactor.BaseIOReactor.readable(BaseIOReactor.java:162)
+	at org.apache.http.impl.nio.reactor.AbstractIOReactor.processEvent(AbstractIOReactor.java:337)
+	at org.apache.http.impl.nio.reactor.AbstractIOReactor.processEvents(AbstractIOReactor.java:315)
+	at org.apache.http.impl.nio.reactor.AbstractIOReactor.execute(AbstractIOReactor.java:276)
+	at org.apache.http.impl.nio.reactor.BaseIOReactor.execute(BaseIOReactor.java:104)
+	at org.apache.http.impl.nio.reactor.AbstractMultiworkerIOReactor$Worker.run(AbstractMultiworkerIOReactor.java:588)
+	... 1 more
+2020-11-06 15:33:33 INFO  AnalyticsService.run(82) - Error while sending analyticsMessage to log-stash
+java.net.UnknownHostException: javarush.ru: nodename nor servname provided, or not known
+	at java.base/java.net.Inet4AddressImpl.lookupAllHostAddr(Native Method)
+	at java.base/java.net.InetAddress$PlatformNameService.lookupAllHostAddr(InetAddress.java:929)
+	at java.base/java.net.InetAddress.getAddressesFromNameService(InetAddress.java:1515)
+	at java.base/java.net.InetAddress$NameServiceAddresses.get(InetAddress.java:848)
+	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1505)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1364)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1298)
+	at org.apache.http.impl.conn.SystemDefaultDnsResolver.resolve(SystemDefaultDnsResolver.java:45)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:111)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:353)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:380)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:184)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:88)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:184)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:82)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:107)
+	at com.homework.plugin.analytics.AnalyticsService$1.run(AnalyticsService.java:75)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2020-11-06 17:00:08 ERROR ApacheHttpClient.processExceptionSendEvent(110) - (super) : Error while sending the event to the server.
+java.util.concurrent.ExecutionException: java.net.UnknownHostException: javarush.ru: nodename nor servname provided, or not known
+	at org.apache.http.concurrent.BasicFuture.getResult(BasicFuture.java:70)
+	at org.apache.http.concurrent.BasicFuture.get(BasicFuture.java:80)
+	at com.homework.plugin.client.ApacheHttpClient.getResponseCode(ApacheHttpClient.java:577)
+	at com.homework.plugin.client.ApacheHttpClient.sendEvent(ApacheHttpClient.java:535)
+	at com.homework.plugin.service.EventsService$1.run(EventsService.java:63)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: java.net.UnknownHostException: javarush.ru: nodename nor servname provided, or not known
+	at java.base/java.net.Inet4AddressImpl.lookupAllHostAddr(Native Method)
+	at java.base/java.net.InetAddress$PlatformNameService.lookupAllHostAddr(InetAddress.java:929)
+	at java.base/java.net.InetAddress.getAddressesFromNameService(InetAddress.java:1515)
+	at java.base/java.net.InetAddress$NameServiceAddresses.get(InetAddress.java:848)
+	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1505)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1364)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1298)
+	at org.apache.http.impl.conn.SystemDefaultDnsResolver.resolve(SystemDefaultDnsResolver.java:45)
+	at org.apache.http.impl.nio.conn.PoolingNHttpClientConnectionManager$InternalAddressResolver.resolveRemoteAddress(PoolingNHttpClientConnectionManager.java:609)
+	at org.apache.http.impl.nio.conn.PoolingNHttpClientConnectionManager$InternalAddressResolver.resolveRemoteAddress(PoolingNHttpClientConnectionManager.java:580)
+	at org.apache.http.nio.pool.AbstractNIOConnPool.processPendingRequest(AbstractNIOConnPool.java:427)
+	at org.apache.http.nio.pool.AbstractNIOConnPool.lease(AbstractNIOConnPool.java:276)
+	at org.apache.http.impl.nio.conn.PoolingNHttpClientConnectionManager.requestConnection(PoolingNHttpClientConnectionManager.java:266)
+	at org.apache.http.impl.nio.client.AbstractClientExchangeHandler.requestConnection(AbstractClientExchangeHandler.java:363)
+	at org.apache.http.impl.nio.client.DefaultClientExchangeHandlerImpl.start(DefaultClientExchangeHandlerImpl.java:125)
+	at org.apache.http.impl.nio.client.InternalHttpAsyncClient.execute(InternalHttpAsyncClient.java:141)
+	at org.apache.http.impl.nio.client.CloseableHttpAsyncClient.execute(CloseableHttpAsyncClient.java:75)
+	at org.apache.http.impl.nio.client.CloseableHttpAsyncClient.execute(CloseableHttpAsyncClient.java:108)
+	at com.homework.plugin.client.ApacheHttpClient.sendEvent(ApacheHttpClient.java:534)
+	... 7 more
+2020-11-06 17:00:08 INFO  AnalyticsService.run(82) - Error while sending analyticsMessage to log-stash
+java.net.UnknownHostException: javarush.ru
+	at java.base/java.net.InetAddress$CachedAddresses.get(InetAddress.java:797)
+	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1505)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1364)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1298)
+	at org.apache.http.impl.conn.SystemDefaultDnsResolver.resolve(SystemDefaultDnsResolver.java:45)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:111)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:353)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:380)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:184)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:88)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:184)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:82)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:107)
+	at com.homework.plugin.analytics.AnalyticsService$1.run(AnalyticsService.java:75)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2020-11-06 17:42:41 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 17:43:39 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 17:44:39 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 17:45:39 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 17:46:39 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 17:47:39 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 17:48:39 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 17:49:39 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 17:50:02 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-11-06 17:50:02 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-11-06 17:50:03 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-11-06 17:50:33 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2020-11-06 17:50:39 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 17:51:39 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 17:52:39 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 17:53:39 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 17:54:39 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 17:55:39 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 17:55:45 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-11-06 17:55:45 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-11-06 17:55:46 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-11-06 17:56:16 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2020-11-06 17:56:39 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 17:57:39 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 17:58:39 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 17:59:39 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 18:00:00 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-11-06 18:00:01 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-11-06 18:00:01 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-11-06 18:00:02 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2020-11-06 18:00:39 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 18:01:22 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-11-06 18:01:22 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-11-06 18:01:23 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-11-06 18:01:23 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2020-11-06 18:01:39 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 18:02:39 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 18:03:26 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-11-06 18:03:26 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-11-06 18:03:27 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-11-06 18:03:28 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2020-11-06 18:03:39 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 18:04:39 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 18:05:15 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-11-06 18:05:15 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-11-06 18:05:15 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-11-06 18:05:16 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2020-11-06 18:05:39 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 18:06:03 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-11-06 18:06:05 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-11-06 18:06:05 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-11-06 18:06:06 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2020-11-06 18:06:39 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 18:07:39 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 18:08:39 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 18:09:39 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 18:10:39 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 18:11:39 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 18:12:39 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 18:13:30 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-11-06 18:13:31 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-11-06 18:13:31 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-11-06 18:13:32 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2020-11-06 18:13:32 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-11-06 18:13:39 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 18:14:39 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 18:15:39 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 18:16:39 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 18:17:39 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 18:18:39 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 18:19:39 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 18:20:39 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 18:21:39 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 18:21:46 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-11-06 18:21:46 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2020-11-06 18:21:48 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2020-11-06 18:21:49 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-11-06 18:28:08 ERROR ApacheHttpClient.processExceptionSendEvent(110) - (super) : Error while sending the event to the server.
+java.util.concurrent.ExecutionException: java.io.IOException: Connection reset by peer
+	at org.apache.http.concurrent.BasicFuture.getResult(BasicFuture.java:70)
+	at org.apache.http.concurrent.BasicFuture.get(BasicFuture.java:80)
+	at com.homework.plugin.client.ApacheHttpClient.getResponseCode(ApacheHttpClient.java:577)
+	at com.homework.plugin.client.ApacheHttpClient.sendEvent(ApacheHttpClient.java:535)
+	at com.homework.plugin.service.EventsService$1.run(EventsService.java:63)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: java.io.IOException: Connection reset by peer
+	at java.base/sun.nio.ch.FileDispatcherImpl.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:39)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:358)
+	at org.apache.http.nio.reactor.ssl.SSLIOSession.receiveEncryptedData(SSLIOSession.java:451)
+	at org.apache.http.nio.reactor.ssl.SSLIOSession.isAppInputReady(SSLIOSession.java:505)
+	at org.apache.http.impl.nio.reactor.AbstractIODispatch.inputReady(AbstractIODispatch.java:120)
+	at org.apache.http.impl.nio.reactor.BaseIOReactor.readable(BaseIOReactor.java:162)
+	at org.apache.http.impl.nio.reactor.AbstractIOReactor.processEvent(AbstractIOReactor.java:337)
+	at org.apache.http.impl.nio.reactor.AbstractIOReactor.processEvents(AbstractIOReactor.java:315)
+	at org.apache.http.impl.nio.reactor.AbstractIOReactor.execute(AbstractIOReactor.java:276)
+	at org.apache.http.impl.nio.reactor.BaseIOReactor.execute(BaseIOReactor.java:104)
+	at org.apache.http.impl.nio.reactor.AbstractMultiworkerIOReactor$Worker.run(AbstractMultiworkerIOReactor.java:588)
+	... 1 more
+2020-11-06 18:29:09 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 18:30:08 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 18:31:08 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 18:31:21 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-11-06 18:31:22 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-11-06 18:31:22 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-11-06 18:31:23 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2020-11-06 18:32:08 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 18:32:11 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-11-06 18:32:11 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-11-06 18:32:11 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-11-06 18:32:12 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2020-11-06 18:33:08 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 18:34:08 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 18:34:36 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-11-06 18:34:36 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-11-06 18:34:37 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-11-06 18:34:39 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2020-11-06 18:34:39 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-11-06 18:34:46 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-11-06 18:34:46 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2020-11-06 18:34:47 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2020-11-06 18:34:48 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-11-06 18:35:08 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 18:35:57 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-11-06 18:35:58 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-11-06 18:35:58 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-11-06 18:35:59 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2020-11-06 18:35:59 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-11-06 18:36:01 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-11-06 18:36:01 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2020-11-06 18:36:02 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2020-11-06 18:36:03 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-11-06 18:36:08 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 18:37:08 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 18:38:08 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 18:39:08 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 18:40:08 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 18:40:38 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-11-06 18:40:38 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-11-06 18:40:39 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-11-06 18:40:39 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2020-11-06 18:40:40 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-11-06 18:40:42 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-11-06 18:40:42 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2020-11-06 18:40:43 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2020-11-06 18:40:44 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-11-06 18:41:08 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 18:42:08 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 18:43:08 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 18:44:08 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 18:45:08 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 18:46:08 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 18:51:04 ERROR ApacheHttpClient.processExceptionSendEvent(110) - (super) : Error while sending the event to the server.
+java.util.concurrent.ExecutionException: java.io.IOException: Connection reset by peer
+	at org.apache.http.concurrent.BasicFuture.getResult(BasicFuture.java:70)
+	at org.apache.http.concurrent.BasicFuture.get(BasicFuture.java:80)
+	at com.homework.plugin.client.ApacheHttpClient.getResponseCode(ApacheHttpClient.java:577)
+	at com.homework.plugin.client.ApacheHttpClient.sendEvent(ApacheHttpClient.java:535)
+	at com.homework.plugin.service.EventsService$1.run(EventsService.java:63)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: java.io.IOException: Connection reset by peer
+	at java.base/sun.nio.ch.FileDispatcherImpl.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:39)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:358)
+	at org.apache.http.nio.reactor.ssl.SSLIOSession.receiveEncryptedData(SSLIOSession.java:451)
+	at org.apache.http.nio.reactor.ssl.SSLIOSession.isAppInputReady(SSLIOSession.java:505)
+	at org.apache.http.impl.nio.reactor.AbstractIODispatch.inputReady(AbstractIODispatch.java:120)
+	at org.apache.http.impl.nio.reactor.BaseIOReactor.readable(BaseIOReactor.java:162)
+	at org.apache.http.impl.nio.reactor.AbstractIOReactor.processEvent(AbstractIOReactor.java:337)
+	at org.apache.http.impl.nio.reactor.AbstractIOReactor.processEvents(AbstractIOReactor.java:315)
+	at org.apache.http.impl.nio.reactor.AbstractIOReactor.execute(AbstractIOReactor.java:276)
+	at org.apache.http.impl.nio.reactor.BaseIOReactor.execute(BaseIOReactor.java:104)
+	at org.apache.http.impl.nio.reactor.AbstractMultiworkerIOReactor$Worker.run(AbstractMultiworkerIOReactor.java:588)
+	... 1 more
+2020-11-06 18:52:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 18:53:04 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 18:54:04 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 18:55:04 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 18:55:54 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-11-06 18:55:55 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-11-06 18:55:55 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-11-06 18:55:56 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2020-11-06 18:55:56 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-11-06 18:55:59 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-11-06 18:55:59 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2020-11-06 18:56:00 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2020-11-06 18:56:01 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-11-06 18:56:04 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 18:57:04 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 18:58:04 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 18:58:16 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-11-06 18:58:17 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-11-06 18:58:17 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-11-06 18:58:18 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2020-11-06 18:58:18 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-11-06 18:58:20 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-11-06 18:58:20 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2020-11-06 18:58:21 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2020-11-06 18:58:22 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-11-06 18:59:04 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 18:59:30 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-11-06 18:59:31 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-11-06 18:59:31 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-11-06 18:59:32 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2020-11-06 18:59:32 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-11-06 18:59:36 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-11-06 18:59:36 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2020-11-06 18:59:38 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2020-11-06 18:59:38 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-11-06 18:59:39 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2020-11-06 18:59:39 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-11-06 19:00:04 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 19:01:04 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 19:02:04 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 19:03:04 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 19:03:29 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-11-06 19:03:30 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-11-06 19:03:30 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-11-06 19:03:30 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2020-11-06 19:03:59 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-11-06 19:04:00 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-11-06 19:04:00 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-11-06 19:04:01 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2020-11-06 19:04:04 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 19:04:17 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-11-06 19:04:17 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-11-06 19:04:18 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-11-06 19:04:18 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2020-11-06 19:04:18 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-11-06 19:04:23 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-11-06 19:04:23 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2020-11-06 19:04:25 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2020-11-06 19:04:25 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-11-06 19:05:04 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 19:06:04 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 19:07:04 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 19:07:13 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-11-06 19:07:13 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-11-06 19:07:14 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-11-06 19:07:15 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2020-11-06 19:07:15 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-11-06 19:07:18 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-11-06 19:07:18 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2020-11-06 19:07:20 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2020-11-06 19:07:21 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-11-06 19:08:04 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 19:09:04 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 19:10:04 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 19:11:04 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 19:12:04 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 19:12:46 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-11-06 19:12:47 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-11-06 19:12:47 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-11-06 19:12:49 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2020-11-06 19:13:04 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 19:14:04 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 19:15:04 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 19:16:04 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 19:23:48 INFO  PluginTasksProjectComponent.projectClosing(196) - ---------- Project closed ----------
+
+2020-11-06 19:23:48 ERROR ApacheHttpClient.getTask(492) - Error while downloading the task. Be sure you have a network connection and try again.
+java.util.concurrent.ExecutionException: java.io.IOException: Connection reset by peer
+	at org.apache.http.concurrent.BasicFuture.getResult(BasicFuture.java:70)
+	at org.apache.http.concurrent.BasicFuture.get(BasicFuture.java:80)
+	at com.homework.plugin.client.ApacheHttpClient.getResponseCode(ApacheHttpClient.java:577)
+	at com.homework.plugin.client.ApacheHttpClient.getTask(ApacheHttpClient.java:488)
+	at com.homework.plugin.PluginTasksProjectComponent$1.projectClosing(PluginTasksProjectComponent.java:216)
+	at com.intellij.openapi.project.impl.ProjectManagerImpl$1.projectClosing(ProjectManagerImpl.java:126)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at com.intellij.util.messages.impl.MessageBusImpl.invokeListener(MessageBusImpl.java:513)
+	at com.intellij.util.messages.impl.MessageBusConnectionImpl.deliverMessage(MessageBusConnectionImpl.java:138)
+	at com.intellij.util.messages.impl.MessageBusImpl.doPumpMessages(MessageBusImpl.java:438)
+	at com.intellij.util.messages.impl.MessageBusImpl.pumpWaitingBuses(MessageBusImpl.java:398)
+	at com.intellij.util.messages.impl.MessageBusImpl.pumpMessages(MessageBusImpl.java:388)
+	at com.intellij.util.messages.impl.MessageBusImpl.sendMessage(MessageBusImpl.java:372)
+	at com.intellij.util.messages.impl.MessageBusImpl.lambda$createTopicHandler$1(MessageBusImpl.java:241)
+	at com.sun.proxy.$Proxy80.projectClosing(Unknown Source)
+	at com.intellij.openapi.project.impl.ProjectManagerImpl.fireProjectClosing(ProjectManagerImpl.java:789)
+	at com.intellij.openapi.project.impl.ProjectManagerImpl.closeProject(ProjectManagerImpl.java:748)
+	at com.intellij.openapi.project.impl.ProjectManagerImpl.closeAndDisposeAllProjects(ProjectManagerImpl.java:688)
+	at com.intellij.openapi.application.impl.ApplicationImpl.disposeSelf(ApplicationImpl.java:170)
+	at com.intellij.openapi.application.impl.ApplicationImpl.doExit(ApplicationImpl.java:655)
+	at com.intellij.openapi.application.impl.ApplicationImpl.exit(ApplicationImpl.java:628)
+	at com.intellij.openapi.application.impl.ApplicationImpl.exit(ApplicationImpl.java:617)
+	at com.intellij.openapi.application.impl.ApplicationImpl.exit(ApplicationImpl.java:613)
+	at com.intellij.openapi.application.impl.ApplicationImpl.exit(ApplicationImpl.java:584)
+	at com.intellij.openapi.application.impl.ApplicationImpl.exit(ApplicationImpl.java:579)
+	at com.intellij.ui.mac.MacOSApplicationProvider$Worker.lambda$null$3(MacOSApplicationProvider.java:72)
+	at com.intellij.ui.mac.MacOSApplicationProvider$Worker.lambda$submit$7(MacOSApplicationProvider.java:162)
+	at com.intellij.openapi.application.TransactionGuardImpl.runSyncTransaction(TransactionGuardImpl.java:83)
+	at com.intellij.openapi.application.TransactionGuardImpl.lambda$pollQueueLater$0(TransactionGuardImpl.java:68)
+	at com.intellij.openapi.application.impl.LaterInvocator$FlushQueue.doRun(LaterInvocator.java:441)
+	at com.intellij.openapi.application.impl.LaterInvocator$FlushQueue.runNextEvent(LaterInvocator.java:424)
+	at com.intellij.openapi.application.impl.LaterInvocator$FlushQueue.run(LaterInvocator.java:407)
+	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:313)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:776)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:727)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:721)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:746)
+	at com.intellij.ide.IdeEventQueue.defaultDispatchEvent(IdeEventQueue.java:908)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.java:781)
+	at com.intellij.ide.IdeEventQueue.lambda$dispatchEvent$8(IdeEventQueue.java:424)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.computePrioritized(CoreProgressManager.java:698)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:423)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+Caused by: java.io.IOException: Connection reset by peer
+	at java.base/sun.nio.ch.FileDispatcherImpl.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:39)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:358)
+	at org.apache.http.nio.reactor.ssl.SSLIOSession.receiveEncryptedData(SSLIOSession.java:451)
+	at org.apache.http.nio.reactor.ssl.SSLIOSession.isAppInputReady(SSLIOSession.java:505)
+	at org.apache.http.impl.nio.reactor.AbstractIODispatch.inputReady(AbstractIODispatch.java:120)
+	at org.apache.http.impl.nio.reactor.BaseIOReactor.readable(BaseIOReactor.java:162)
+	at org.apache.http.impl.nio.reactor.AbstractIOReactor.processEvent(AbstractIOReactor.java:337)
+	at org.apache.http.impl.nio.reactor.AbstractIOReactor.processEvents(AbstractIOReactor.java:315)
+	at org.apache.http.impl.nio.reactor.AbstractIOReactor.execute(AbstractIOReactor.java:276)
+	at org.apache.http.impl.nio.reactor.BaseIOReactor.execute(BaseIOReactor.java:104)
+	at org.apache.http.impl.nio.reactor.AbstractMultiworkerIOReactor$Worker.run(AbstractMultiworkerIOReactor.java:588)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2020-11-06 19:23:48 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-11-06 19:23:49 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-11-06 19:23:49 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-11-06 19:23:49 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-11-06 19:23:49 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-11-06 19:23:49 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-11-06 19:23:49 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-11-06 19:23:49 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-11-06 19:23:49 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-11-06 19:23:49 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-11-06 19:23:49 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-11-06 19:23:50 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-11-06 19:23:50 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-11-06 19:23:50 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-11-06 19:23:50 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-11-06 19:23:50 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-11-06 19:23:50 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-11-06 19:23:50 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-11-06 19:23:50 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-11-06 19:23:50 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-11-06 19:23:51 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-11-06 19:23:51 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-11-06 19:23:51 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-11-06 19:23:51 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-11-06 19:23:51 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-11-06 19:23:51 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2020-11-06 19:42:21 INFO  PluginTasksProjectComponent.projectOpened(79) - ---------- Project opened ----------
+2020-11-06 19:42:21 INFO  PluginTasksProjectComponent.projectOpened(80) - ---------- Version 3.43 ----------
+
+2020-11-06 19:42:21 INFO  ApacheHttpClient.createAsyncHttpClient(146) - 1 proxies selected. Type: DIRECT
+2020-11-06 19:42:21 INFO  ApacheHttpClient.<init>(97) - ApacheHttpClient was successfully instantiated.
+2020-11-06 19:42:23 INFO  ApacheHttpClient.testConnection(205) - responseCode = 200
+2020-11-06 19:42:23 INFO  ApacheHttpClient.testConnection(220) - result = true
+2020-11-06 19:42:23 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2020-11-06 19:42:23 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2020-11-06 19:42:23 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2020-11-06 19:42:23 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2020-11-06 19:42:24 INFO  AbstractRestApiClient.startService(71) - EventsService started.
+2020-11-06 19:42:32 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2020-11-06 19:43:24 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 19:44:24 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 19:45:24 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 19:46:44 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 19:47:24 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-06 23:58:31 ERROR ApacheHttpClient.processExceptionSendEvent(110) - (super) : Error while sending the event to the server.
+java.util.concurrent.ExecutionException: org.apache.http.ConnectionClosedException: Connection closed
+	at org.apache.http.concurrent.BasicFuture.getResult(BasicFuture.java:70)
+	at org.apache.http.concurrent.BasicFuture.get(BasicFuture.java:80)
+	at com.homework.plugin.client.ApacheHttpClient.getResponseCode(ApacheHttpClient.java:577)
+	at com.homework.plugin.client.ApacheHttpClient.sendEvent(ApacheHttpClient.java:535)
+	at com.homework.plugin.service.EventsService$1.run(EventsService.java:63)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: org.apache.http.ConnectionClosedException: Connection closed
+	at org.apache.http.nio.protocol.HttpAsyncRequestExecutor.endOfInput(HttpAsyncRequestExecutor.java:344)
+	at org.apache.http.impl.nio.DefaultNHttpClientConnection.consumeInput(DefaultNHttpClientConnection.java:261)
+	at org.apache.http.impl.nio.client.InternalIODispatch.onInputReady(InternalIODispatch.java:81)
+	at org.apache.http.impl.nio.client.InternalIODispatch.onInputReady(InternalIODispatch.java:39)
+	at org.apache.http.impl.nio.reactor.AbstractIODispatch.inputReady(AbstractIODispatch.java:121)
+	at org.apache.http.impl.nio.reactor.BaseIOReactor.readable(BaseIOReactor.java:162)
+	at org.apache.http.impl.nio.reactor.AbstractIOReactor.processEvent(AbstractIOReactor.java:337)
+	at org.apache.http.impl.nio.reactor.AbstractIOReactor.processEvents(AbstractIOReactor.java:315)
+	at org.apache.http.impl.nio.reactor.AbstractIOReactor.execute(AbstractIOReactor.java:276)
+	at org.apache.http.impl.nio.reactor.BaseIOReactor.execute(BaseIOReactor.java:104)
+	at org.apache.http.impl.nio.reactor.AbstractMultiworkerIOReactor$Worker.run(AbstractMultiworkerIOReactor.java:588)
+	... 1 more
+2020-11-07 08:53:14 ERROR ApacheHttpClient.processExceptionSendEvent(110) - (super) : Error while sending the event to the server.
+java.util.concurrent.ExecutionException: java.net.UnknownHostException: javarush.ru: nodename nor servname provided, or not known
+	at org.apache.http.concurrent.BasicFuture.getResult(BasicFuture.java:70)
+	at org.apache.http.concurrent.BasicFuture.get(BasicFuture.java:80)
+	at com.homework.plugin.client.ApacheHttpClient.getResponseCode(ApacheHttpClient.java:577)
+	at com.homework.plugin.client.ApacheHttpClient.sendEvent(ApacheHttpClient.java:535)
+	at com.homework.plugin.service.EventsService$1.run(EventsService.java:63)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: java.net.UnknownHostException: javarush.ru: nodename nor servname provided, or not known
+	at java.base/java.net.Inet4AddressImpl.lookupAllHostAddr(Native Method)
+	at java.base/java.net.InetAddress$PlatformNameService.lookupAllHostAddr(InetAddress.java:929)
+	at java.base/java.net.InetAddress.getAddressesFromNameService(InetAddress.java:1515)
+	at java.base/java.net.InetAddress$NameServiceAddresses.get(InetAddress.java:848)
+	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1505)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1364)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1298)
+	at org.apache.http.impl.conn.SystemDefaultDnsResolver.resolve(SystemDefaultDnsResolver.java:45)
+	at org.apache.http.impl.nio.conn.PoolingNHttpClientConnectionManager$InternalAddressResolver.resolveRemoteAddress(PoolingNHttpClientConnectionManager.java:609)
+	at org.apache.http.impl.nio.conn.PoolingNHttpClientConnectionManager$InternalAddressResolver.resolveRemoteAddress(PoolingNHttpClientConnectionManager.java:580)
+	at org.apache.http.nio.pool.AbstractNIOConnPool.processPendingRequest(AbstractNIOConnPool.java:427)
+	at org.apache.http.nio.pool.AbstractNIOConnPool.lease(AbstractNIOConnPool.java:276)
+	at org.apache.http.impl.nio.conn.PoolingNHttpClientConnectionManager.requestConnection(PoolingNHttpClientConnectionManager.java:266)
+	at org.apache.http.impl.nio.client.AbstractClientExchangeHandler.requestConnection(AbstractClientExchangeHandler.java:363)
+	at org.apache.http.impl.nio.client.DefaultClientExchangeHandlerImpl.start(DefaultClientExchangeHandlerImpl.java:125)
+	at org.apache.http.impl.nio.client.InternalHttpAsyncClient.execute(InternalHttpAsyncClient.java:141)
+	at org.apache.http.impl.nio.client.CloseableHttpAsyncClient.execute(CloseableHttpAsyncClient.java:75)
+	at org.apache.http.impl.nio.client.CloseableHttpAsyncClient.execute(CloseableHttpAsyncClient.java:108)
+	at com.homework.plugin.client.ApacheHttpClient.sendEvent(ApacheHttpClient.java:534)
+	... 7 more
+2020-11-07 08:53:14 INFO  AnalyticsService.run(82) - Error while sending analyticsMessage to log-stash
+java.net.UnknownHostException: javarush.ru
+	at java.base/java.net.InetAddress$CachedAddresses.get(InetAddress.java:797)
+	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1505)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1364)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1298)
+	at org.apache.http.impl.conn.SystemDefaultDnsResolver.resolve(SystemDefaultDnsResolver.java:45)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:111)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:353)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:380)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:184)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:88)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:184)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:82)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:107)
+	at com.homework.plugin.analytics.AnalyticsService$1.run(AnalyticsService.java:75)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2020-11-07 08:54:14 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-07 08:55:13 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-07 08:56:13 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-07 14:30:27 ERROR ApacheHttpClient.processExceptionSendEvent(110) - (super) : Error while sending the event to the server.
+java.util.concurrent.ExecutionException: java.io.IOException: Connection reset by peer
+	at org.apache.http.concurrent.BasicFuture.getResult(BasicFuture.java:70)
+	at org.apache.http.concurrent.BasicFuture.get(BasicFuture.java:80)
+	at com.homework.plugin.client.ApacheHttpClient.getResponseCode(ApacheHttpClient.java:577)
+	at com.homework.plugin.client.ApacheHttpClient.sendEvent(ApacheHttpClient.java:535)
+	at com.homework.plugin.service.EventsService$1.run(EventsService.java:63)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: java.io.IOException: Connection reset by peer
+	at java.base/sun.nio.ch.FileDispatcherImpl.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:39)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:358)
+	at org.apache.http.nio.reactor.ssl.SSLIOSession.receiveEncryptedData(SSLIOSession.java:451)
+	at org.apache.http.nio.reactor.ssl.SSLIOSession.isAppInputReady(SSLIOSession.java:505)
+	at org.apache.http.impl.nio.reactor.AbstractIODispatch.inputReady(AbstractIODispatch.java:120)
+	at org.apache.http.impl.nio.reactor.BaseIOReactor.readable(BaseIOReactor.java:162)
+	at org.apache.http.impl.nio.reactor.AbstractIOReactor.processEvent(AbstractIOReactor.java:337)
+	at org.apache.http.impl.nio.reactor.AbstractIOReactor.processEvents(AbstractIOReactor.java:315)
+	at org.apache.http.impl.nio.reactor.AbstractIOReactor.execute(AbstractIOReactor.java:276)
+	at org.apache.http.impl.nio.reactor.BaseIOReactor.execute(BaseIOReactor.java:104)
+	at org.apache.http.impl.nio.reactor.AbstractMultiworkerIOReactor$Worker.run(AbstractMultiworkerIOReactor.java:588)
+	... 1 more
+2020-11-07 18:31:25 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-07 21:11:05 ERROR ApacheHttpClient.processExceptionSendEvent(110) - (super) : Error while sending the event to the server.
+java.util.concurrent.ExecutionException: java.io.IOException: Connection reset by peer
+	at org.apache.http.concurrent.BasicFuture.getResult(BasicFuture.java:70)
+	at org.apache.http.concurrent.BasicFuture.get(BasicFuture.java:80)
+	at com.homework.plugin.client.ApacheHttpClient.getResponseCode(ApacheHttpClient.java:577)
+	at com.homework.plugin.client.ApacheHttpClient.sendEvent(ApacheHttpClient.java:535)
+	at com.homework.plugin.service.EventsService$1.run(EventsService.java:63)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: java.io.IOException: Connection reset by peer
+	at java.base/sun.nio.ch.FileDispatcherImpl.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:39)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:358)
+	at org.apache.http.nio.reactor.ssl.SSLIOSession.receiveEncryptedData(SSLIOSession.java:451)
+	at org.apache.http.nio.reactor.ssl.SSLIOSession.isAppInputReady(SSLIOSession.java:505)
+	at org.apache.http.impl.nio.reactor.AbstractIODispatch.inputReady(AbstractIODispatch.java:120)
+	at org.apache.http.impl.nio.reactor.BaseIOReactor.readable(BaseIOReactor.java:162)
+	at org.apache.http.impl.nio.reactor.AbstractIOReactor.processEvent(AbstractIOReactor.java:337)
+	at org.apache.http.impl.nio.reactor.AbstractIOReactor.processEvents(AbstractIOReactor.java:315)
+	at org.apache.http.impl.nio.reactor.AbstractIOReactor.execute(AbstractIOReactor.java:276)
+	at org.apache.http.impl.nio.reactor.BaseIOReactor.execute(BaseIOReactor.java:104)
+	at org.apache.http.impl.nio.reactor.AbstractMultiworkerIOReactor$Worker.run(AbstractMultiworkerIOReactor.java:588)
+	... 1 more
+2020-11-07 21:12:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-07 21:13:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-07 21:14:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-07 21:15:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-07 21:16:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-07 21:17:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-07 21:18:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-07 21:19:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-07 21:20:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-07 21:21:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-07 21:22:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-07 21:23:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-07 21:24:15 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-07 21:25:05 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-07 21:26:16 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-07 21:29:27 ERROR ApacheHttpClient.processExceptionSendEvent(110) - (super) : Error while sending the event to the server.
+java.util.concurrent.ExecutionException: java.io.IOException: Connection reset by peer
+	at org.apache.http.concurrent.BasicFuture.getResult(BasicFuture.java:70)
+	at org.apache.http.concurrent.BasicFuture.get(BasicFuture.java:80)
+	at com.homework.plugin.client.ApacheHttpClient.getResponseCode(ApacheHttpClient.java:577)
+	at com.homework.plugin.client.ApacheHttpClient.sendEvent(ApacheHttpClient.java:535)
+	at com.homework.plugin.service.EventsService$1.run(EventsService.java:63)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: java.io.IOException: Connection reset by peer
+	at java.base/sun.nio.ch.FileDispatcherImpl.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:39)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:358)
+	at org.apache.http.nio.reactor.ssl.SSLIOSession.receiveEncryptedData(SSLIOSession.java:451)
+	at org.apache.http.nio.reactor.ssl.SSLIOSession.isAppInputReady(SSLIOSession.java:505)
+	at org.apache.http.impl.nio.reactor.AbstractIODispatch.inputReady(AbstractIODispatch.java:120)
+	at org.apache.http.impl.nio.reactor.BaseIOReactor.readable(BaseIOReactor.java:162)
+	at org.apache.http.impl.nio.reactor.AbstractIOReactor.processEvent(AbstractIOReactor.java:337)
+	at org.apache.http.impl.nio.reactor.AbstractIOReactor.processEvents(AbstractIOReactor.java:315)
+	at org.apache.http.impl.nio.reactor.AbstractIOReactor.execute(AbstractIOReactor.java:276)
+	at org.apache.http.impl.nio.reactor.BaseIOReactor.execute(BaseIOReactor.java:104)
+	at org.apache.http.impl.nio.reactor.AbstractMultiworkerIOReactor$Worker.run(AbstractMultiworkerIOReactor.java:588)
+	... 1 more
+2020-11-07 21:30:37 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-07 21:31:37 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-07 21:35:27 ERROR ApacheHttpClient.processExceptionSendEvent(110) - (super) : Error while sending the event to the server.
+java.util.concurrent.ExecutionException: java.io.IOException: Connection reset by peer
+	at org.apache.http.concurrent.BasicFuture.getResult(BasicFuture.java:70)
+	at org.apache.http.concurrent.BasicFuture.get(BasicFuture.java:80)
+	at com.homework.plugin.client.ApacheHttpClient.getResponseCode(ApacheHttpClient.java:577)
+	at com.homework.plugin.client.ApacheHttpClient.sendEvent(ApacheHttpClient.java:535)
+	at com.homework.plugin.service.EventsService$1.run(EventsService.java:63)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: java.io.IOException: Connection reset by peer
+	at java.base/sun.nio.ch.FileDispatcherImpl.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:39)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:358)
+	at org.apache.http.nio.reactor.ssl.SSLIOSession.receiveEncryptedData(SSLIOSession.java:451)
+	at org.apache.http.nio.reactor.ssl.SSLIOSession.isAppInputReady(SSLIOSession.java:505)
+	at org.apache.http.impl.nio.reactor.AbstractIODispatch.inputReady(AbstractIODispatch.java:120)
+	at org.apache.http.impl.nio.reactor.BaseIOReactor.readable(BaseIOReactor.java:162)
+	at org.apache.http.impl.nio.reactor.AbstractIOReactor.processEvent(AbstractIOReactor.java:337)
+	at org.apache.http.impl.nio.reactor.AbstractIOReactor.processEvents(AbstractIOReactor.java:315)
+	at org.apache.http.impl.nio.reactor.AbstractIOReactor.execute(AbstractIOReactor.java:276)
+	at org.apache.http.impl.nio.reactor.BaseIOReactor.execute(BaseIOReactor.java:104)
+	at org.apache.http.impl.nio.reactor.AbstractMultiworkerIOReactor$Worker.run(AbstractMultiworkerIOReactor.java:588)
+	... 1 more
+2020-11-07 21:36:37 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-07 21:37:27 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-07 21:38:27 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-07 21:39:27 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-07 21:40:27 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-07 21:41:27 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-07 21:42:27 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-07 21:43:27 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-07 21:44:27 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-07 21:45:27 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-07 21:46:27 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-07 21:47:27 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-07 21:48:27 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-07 21:49:27 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-07 21:50:27 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-07 21:51:27 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-07 21:52:37 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-07 21:54:34 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-07 21:55:34 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-07 21:56:34 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-07 21:57:34 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-07 21:58:34 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-07 21:59:34 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-07 22:00:34 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-08 00:19:11 ERROR ApacheHttpClient.processExceptionSendEvent(110) - (super) : Error while sending the event to the server.
+java.util.concurrent.ExecutionException: java.io.IOException: Connection reset by peer
+	at org.apache.http.concurrent.BasicFuture.getResult(BasicFuture.java:70)
+	at org.apache.http.concurrent.BasicFuture.get(BasicFuture.java:80)
+	at com.homework.plugin.client.ApacheHttpClient.getResponseCode(ApacheHttpClient.java:577)
+	at com.homework.plugin.client.ApacheHttpClient.sendEvent(ApacheHttpClient.java:535)
+	at com.homework.plugin.service.EventsService$1.run(EventsService.java:63)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: java.io.IOException: Connection reset by peer
+	at java.base/sun.nio.ch.FileDispatcherImpl.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:39)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:358)
+	at org.apache.http.nio.reactor.ssl.SSLIOSession.receiveEncryptedData(SSLIOSession.java:451)
+	at org.apache.http.nio.reactor.ssl.SSLIOSession.isAppInputReady(SSLIOSession.java:505)
+	at org.apache.http.impl.nio.reactor.AbstractIODispatch.inputReady(AbstractIODispatch.java:120)
+	at org.apache.http.impl.nio.reactor.BaseIOReactor.readable(BaseIOReactor.java:162)
+	at org.apache.http.impl.nio.reactor.AbstractIOReactor.processEvent(AbstractIOReactor.java:337)
+	at org.apache.http.impl.nio.reactor.AbstractIOReactor.processEvents(AbstractIOReactor.java:315)
+	at org.apache.http.impl.nio.reactor.AbstractIOReactor.execute(AbstractIOReactor.java:276)
+	at org.apache.http.impl.nio.reactor.BaseIOReactor.execute(BaseIOReactor.java:104)
+	at org.apache.http.impl.nio.reactor.AbstractMultiworkerIOReactor$Worker.run(AbstractMultiworkerIOReactor.java:588)
+	... 1 more
+2020-11-08 06:19:53 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-08 13:49:00 ERROR ApacheHttpClient.processExceptionSendEvent(110) - (super) : Error while sending the event to the server.
+java.util.concurrent.ExecutionException: java.io.IOException: Connection reset by peer
+	at org.apache.http.concurrent.BasicFuture.getResult(BasicFuture.java:70)
+	at org.apache.http.concurrent.BasicFuture.get(BasicFuture.java:80)
+	at com.homework.plugin.client.ApacheHttpClient.getResponseCode(ApacheHttpClient.java:577)
+	at com.homework.plugin.client.ApacheHttpClient.sendEvent(ApacheHttpClient.java:535)
+	at com.homework.plugin.service.EventsService$1.run(EventsService.java:63)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: java.io.IOException: Connection reset by peer
+	at java.base/sun.nio.ch.FileDispatcherImpl.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:39)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:245)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:358)
+	at org.apache.http.nio.reactor.ssl.SSLIOSession.receiveEncryptedData(SSLIOSession.java:451)
+	at org.apache.http.nio.reactor.ssl.SSLIOSession.isAppInputReady(SSLIOSession.java:505)
+	at org.apache.http.impl.nio.reactor.AbstractIODispatch.inputReady(AbstractIODispatch.java:120)
+	at org.apache.http.impl.nio.reactor.BaseIOReactor.readable(BaseIOReactor.java:162)
+	at org.apache.http.impl.nio.reactor.AbstractIOReactor.processEvent(AbstractIOReactor.java:337)
+	at org.apache.http.impl.nio.reactor.AbstractIOReactor.processEvents(AbstractIOReactor.java:315)
+	at org.apache.http.impl.nio.reactor.AbstractIOReactor.execute(AbstractIOReactor.java:276)
+	at org.apache.http.impl.nio.reactor.BaseIOReactor.execute(BaseIOReactor.java:104)
+	at org.apache.http.impl.nio.reactor.AbstractMultiworkerIOReactor$Worker.run(AbstractMultiworkerIOReactor.java:588)
+	... 1 more
+2020-11-08 13:49:55 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-08 13:50:54 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-08 13:51:54 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-08 13:52:54 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-08 13:53:54 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-08 13:54:54 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-08 13:55:54 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-08 13:56:54 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-08 13:57:54 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-08 13:58:54 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-08 13:59:54 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-08 14:00:54 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-08 14:02:04 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-08 14:03:04 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-08 14:04:04 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-08 14:04:54 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-08 14:05:54 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-08 14:07:04 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-08 14:08:04 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-08 14:08:54 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-08 14:09:54 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-08 14:11:04 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-08 14:12:04 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-08 14:13:04 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-08 14:14:04 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-08 14:15:04 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-08 14:15:54 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
